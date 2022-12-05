@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670242919 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recusegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
